@@ -7,8 +7,8 @@ const projects = [
     title: "Todo App",
     description: "React ve localStorage kullandığım basit yapılacaklar listesi.",
     techs: ["React", "JavaScript", "CSS"],
-    image: "/images/Portfolyo.png",
-    github: "https://github.com/emreakturkk/todo-app",
+    image: "/images/Todo.png",
+    github: "https://github.com/emreakturkk/Todo App",
     demo: "https://todo.example.com",
   },
   {
